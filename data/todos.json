@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy milk with some orange"
+    },
+    {
+      "id": "2",
+      "text": "help my friend to find a girl"
+    },
+    {
+      "id": "3",
+      "text": "go to gym & library"
+    },
+    {
+      "id": "52eead5d-cdde-4817-9425-ff37dd7c9f5d",
+      "text": "learn english"
+    },
+    {
+      "id": "7ad893ed-d5b6-4fbb-be91-2e966425fa98",
+      "text": "walking with my cat"
+    },
+    {
+      "id": "c42afa71-8e42-471a-851b-1ea717aea96f",
+      "text": "finishing up tutorial next + tailwind + daisyUI"
+    }
+  ]
+}
